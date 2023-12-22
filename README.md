@@ -1,6 +1,4 @@
-hi, i’m @ejachang
-
-✨ pls come back later when i've had more time to update my github here✨ 
+hello
 
 <!---
 ejachang/ejachang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
